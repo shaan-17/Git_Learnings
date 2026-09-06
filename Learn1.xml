@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<item id="1">
+		<name>Blue Notebook</name>
+		<category>Stationery</category>
+		<price currency="USD">4.99</price>
+		<available>true</available>
+	</item>
+	<item id="2">
+		<name>Green Mug</name>
+		<category>Kitchen</category>
+		<price currency="USD">12.50</price>
+		<available>false</available>
+	</item>
+</catalog>
